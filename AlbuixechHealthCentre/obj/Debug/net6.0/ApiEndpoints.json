@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "HealthcareWebApp.TestDatabaseController",
+    "Method": "CheckConnection",
+    "RelativePath": "api/TestDatabase/connection-status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
